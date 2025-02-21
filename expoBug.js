@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI with a project that has a complex or improperly configured build process. The error message is not very specific, making it difficult to pinpoint the exact cause.  It often arises during the build process when Expo attempts to bundle the project's code and assets for deployment.
